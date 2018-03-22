@@ -1,0 +1,500 @@
+   25  gcc -g -c dataMemory.c -o dataMemory.o
+   26  f
+   27  cd Desktop/Lab8/StarterCode/MemCtrl
+   28  gcc -g -c dataMemory.c -o dataMemory.o
+   29  gcc -g -c instructionMemory.c -o instructionMemory.o
+   30  cd testcontrol testDataMemory testinstructionMemory
+   31  gcc -g -c instructionMemory.c -o instructionMemory.o
+   32  cd
+   33  ls
+   34  cd Desktop/Lab8/StarterCode/Execute
+   35  gcc -g execute.c -o execute.o
+   36  gcc -g execute.c -o execute.o
+   37  gcc -g execute.c -o execute.o
+   38  instructionMemory.c instructionMemory.h
+   39  gcc -g -c instructionMemory.c -o instructionMemory.o
+   40  gcc -g -c dataMemory.c -o dataMemory.o
+   41  gcc -g testdataMemory.c dataMemory.o -o testDataMemory
+   42  gcc -g testdataMemory.c dataMemory.o -o testDataMemory
+   43  gcc -g testdataMemory.c dataMemory.o -o testDataMemory
+   44  gcc -g testdataMemory.c dataMemory.o -o testDataMemory
+   45  gcc -g testdataMemory.c dataMemory.o -o testDataMemory
+   46  gcc -g testdataMemory.c dataMemory.o -o testDataMemory
+   47  gcc -g testdataMemory.c dataMemory.o -o testDataMemory
+   48  cd
+   49  cd Desktop/Lab8/StarterCode
+   50  cd MemCtrl
+   51  gcc -g testdataMemory.c dataMemory.o -o testDataMemory
+   52  gcc -g testInstructionMemory.c instructionMemory.o -o instructionMemory
+   53  gcc -g -c control.c -o control.o
+   54  cd
+   55  cd Desktop/Lab8/StarterCode/Execute
+   56  gcc -g testcontrol.c control.o -o testdataMemory
+   57  gcc -g testcontrol.c control.o -o testcontro
+   58  gcc -g testcontrol.c control.c -o testcontro
+   59  gcc -g testinstructionMemory.c instructionMemory.o -o instructionMemory
+   60  gcc -g -c control.c -o control.o
+   61  gcc -g -c dataMemory.c -o dataMemory.o
+   62  gcc -g -c instructionMemory.c -o instructionMemory.o
+   63  gcc -g -c control.c -o control.o
+   64  jane
+   65  testcontrol
+   66  testcontrol testdataMemory testinstructioMemory
+   67  /Users/jaein/Desktop/Lab8/StarterCode/MemCtrl/testDataMemory ; exit;
+   68  cd Desktop/Lab8/StarterCode/Execute
+   69  gcc -g -c control.c -o control.o
+   70  cd Desktop/Lab8/StarterCode/MemCtrl
+   71  cd
+   72  cd Desktop/Lab8/StarterCode/MemCtrl
+   73  gcc -g -c control.c -o control.o
+   74  gcc -g testdataMemory.c dataMemory.o -o testDataMemory
+   75  gcc -g -c dataMemory.c -o dataMemory.o
+   76  testcontrol testdataMemory testinstructionMemory
+   77  cd
+   78  ls
+   79  cd Deskto
+   80  cd Lab8/StarterCode/
+   81  testcontrol testdataMemory testinstructionMemory
+   82  gcc -g -c dataMemory.c -o dataMemory.o
+   83  gcc -g -c dataMemory.c -o dataMemory.o
+   84  gcc -g -c dataMemory.c -o dataMemory.o
+   85  cd Execute
+   86  gcc -g -c dataMemory.c -o dataMemory.o
+   87  gcc -g -c dataMemory.c -o dataMemory.o
+   88  gcc -g -c testdataMemory.c -o testdataMemory.
+   89  cd 
+   90  cd Desktop/Lab/StarterCode/MemCtrl
+   91  gcc -g -c dataMemory.c -o dataMemory.o
+   92  cd Desktop
+   93  cd Lab8/StarterCode/MemCtrl
+   94  gcc -g -c dataMemory.c -o dataMemory.o
+   95  /Users/jaein/Desktop/Lab8/StarterCode/MemCtrl/testcontrol ; exit;
+   96  /Users/jaein/Desktop/Lab8_FINAL/MemCtrl/testcontrol ; exit;
+   97  /Users/jaein/Desktop/Lab8_FINAL/MemCtrl/testdataMemory ; exit;
+   98  /Users/jaein/Desktop/Lab8/StarterCode/MemCtrl/testDataMemory ; exit;
+   99  /Users/jaein/Desktop/Lab8_FINAL/MemCtrl/instructionMemory ; exit;
+  100  /Users/jaein/Desktop/Lab8/StarterCode/MemCtrl/instructionMemory ; exit;
+  101  /Users/jaein/Desktop/Lab8_FINAL/Execute/MIPSsim ; exit;
+  102  /Users/jaein/Desktop/Lab8_FINAL/Execute/MIPSsim ; exit;
+  103  cd Desktop/Lab8_Final/MemCtrl
+  104  gcc -g -c instructionMemory.c -o instructionMemory.o
+  105  cd
+  106  cd Desktop/Lab8_Final/Execute
+  107  gcc -g execute.c -o execute.o
+  108  cd Desktop/StarterCode/Lab8/Execute
+  109  cd Desktop/StarterCode/Lab8
+  110  cd
+  111  cd Desktop/StarterCode/Lab
+  112  ls
+  113  cd Desktop
+  114  cd Lab8
+  115  cd StarterCod
+  116  cd StarterCode
+  117  cd Execute
+  118  tar cvf lab8_yoo.tar control.c control.h testcontrol.c dataMemory.c dataMemory.h testDataMemory.c instructionMemory.c instructionMemory.h testInstructionMemory.c MIPSsim.c execute.c execute.h
+  119  cd Desktop
+  120  cd TODO
+  121  cd Lab6
+  122  tar cvf lab6_yoo.tar swapelements.s sumarray.s
+  123  ls Desktop
+  124  cd RIPALSOLANKI
+  125  cd RIPALSOLANKI
+  126  cd Desktop/RIPALSOLANKI
+  127  /Users/jaein/Desktop/autocomplete_me/run_tests ; exit;
+  128  cd Desktop/RIPALSOLANKI/Projects
+  129  cd wordnet
+  130  java WordNet synsets.txt hypernyms.txt worm bird
+  131  java WordNet synsets.txt hypernyms.txt worm bird
+  132  java WordNet synsets.txt hypernyms.txt worm bird
+  133  java WordNet synsets.txt hypernyms.txt worm bird
+  134  java WordNet synsets.txt hypernyms.txt worm bird
+  135  java WordNet synsets.txt hypernyms.txt worm bird
+  136  java WordNet synsets.txt hypernyms.txt worm bird
+  137  cd Desktop/6_wordnet
+  138  ls
+  139  cd Desktop/6_wordnet
+  140  java WordNet synsets.txt hypernyms.txt worm bird
+  141  cd Desktop/RIPALSOLANKI
+  142  cd Projects
+  143  cd wordnet1
+  144  java WordNet synsets.txt hypernyms.txt worm bird
+  145  java WordNet synsets.txt hypernyms.txt worm bird
+  146  cd Desktop/RIPALSOLANKI/Projects/wordnet/
+  147  java WordNet synsets.txt hypernyms.txt worm bird
+  148  cd Desktop/RIPALSOLANKI/Projects/wordnet/
+  149  java WordNet synsets.txt hypernyms.txt worm bird
+  150  java WordNet synsets.txt hypernyms.txt worm bird
+  151  java WordNet synsets.txt hypernyms.txt worm bird
+  152  java WordNet synsets.txt hypernyms.txt worm bird
+  153  java WordNet synsets.txt hypernyms.txt worm bird
+  154  cd Desktop
+  155  bash Anaconda3-4.1.1-MacOSX-x86_64.sh
+  156  bash Anaconda2-4.1.1-MacOSX-x86_64.sh
+  157  Anaconda2-4.1.1-MacOSX-x86_64.sh
+  158  bash Anaconda2-4.1.1-MacOSX-x86_64.sh
+  159  $ python foo.py
+  160  $ ~/anaconda2/bin/python foo.py
+  161  ~ /anaconda/bin/python foo.py
+  162  jupyter notebook
+  163  ~/anaconda2/bin/python foo.py
+  164  /anaconda2/bin/python foo.py
+  165  /anaconda/bin/python foo.py
+  166  cd Desktop/hw0
+  167  python addArrays.py
+  168  /anaconda2/bin/python foo.py
+  169  python
+  170  ipython
+  171  python addArrays.py
+  172  cd Desktop/hw0
+  173  python addArrays.py
+  174  python addArrays.py
+  175  python addArrays.py
+  176  python addArrays.py
+  177  python addArrays.py
+  178  python addArrays.py
+  179  python addArrays.py
+  180  python addArrays.py
+  181  python addArrays.py
+  182  clear
+  183  clear
+  184  python addArrays.py
+  185  python addArrays.py
+  186  cler
+  187  clear
+  188  python addArrays.py
+  189  python addArrays.py
+  190  python addArrays.py
+  191  python addArrays.py
+  192  python addArrays.py
+  193  clear
+  194  python addArrays.py
+  195  python addArrays.py
+  196  clera
+  197  clear
+  198  python addArrays.py
+  199  clear
+  200  python addArrays.py
+  201  clear
+  202  python addArrays.py
+  203  clear
+  204  python addArrays.py
+  205  python addArrays.py
+  206  python addArrays.py
+  207  clear
+  208  python addArrays.py
+  209  python addArrays.py
+  210  clera
+  211  clear
+  212  python addArrays.py
+  213  python addArrays.py
+  214  python addArrays.py
+  215  python addArrays.py
+  216  clear
+  217  python addArrays.py
+  218  python addArrays.py
+  219  python addArrays.py
+  220  python addArrays.py
+  221  python addArrays.py
+  222  python addArrays.py
+  223  python addArrays.py
+  224  python addArrays.py
+  225  clear
+  226  python addArrays.py
+  227  python addArrays.py
+  228  python addArrays.py
+  229  /Users/jaein/Desktop/hw0 clear
+  230  clear
+  231  python addArrays.py
+  232  clear
+  233  python addArrays.py
+  234  python addArrays.py
+  235  python addArrays.py
+  236  cd Desktop/hw0 python myProgram.py
+  237  python myProgram.py
+  238  python myProgram.py
+  239  python myProgram.py
+  240  python myProgram.py
+  241  python myProgram.py
+  242  python myProgram.py
+  243  python myProgram.py
+  244  clear
+  245  python myProgram.py
+  246  python myProgram.py
+  247  python myProgram.py
+  248  python foo.py
+  249  jupyter notebook
+  250  jupyter notebook
+  251  jupyter notebook
+  252  python foo.py
+  253  ~/anaconda2/bin/python foo.yp
+  254  ~/anaconda2/bin/python foo.py
+  255  python --version
+  256  pwd
+  257  ls
+  258  open .bash
+  259  open .bash_profile 
+  260  open .bash_profile 
+  261  source .bash_profile
+  262  open .bash_profile 
+  263  source .bash_profile
+  264  clear
+  265  jsdfsadf
+  266  sdf
+  267  af
+  268  clear
+  269  cd Desktop
+  270  pwd
+  271  cd ../
+  272  pwd
+  273  pwd
+  274  cd Desktop
+  275  pwd
+  276  ls
+  277  cd ../
+  278  pwd
+  279  cd jaein
+  280  ls
+  281  cd Downloads
+  282  cd hw1-files
+  283  jup
+  284  ls
+  285  cd Downloads
+  286  jup
+  287  jup
+  288  cd Downloads
+  289  cd hw1-files 2
+  290  jup
+  291  cd Downloads
+  292  cd hw1-files
+  293  jup
+  294  cd Downloads/hw1-files
+  295  jup
+  296  cd Downloads
+  297  cd hw1-files
+  298  jup
+  299  cd Downloads/hw1-files
+  300  jup
+  301  ls
+  302  cd Documents/*366*
+  303  cd Documents/*336*
+  304  cd starter/
+  305  ls
+  306  cd Documents/*335*/
+  307  jup
+  308  cd Documents/*335*/hw2/hw2-files
+  309  jup
+  310  cd Documents/*335*/hw2/hw2-files
+  311  jup
+  312  cd Documents/*335*/hw2/hw2-files
+  313  jup
+  314  cd Documents/*335*/hw1/hw1-yoo
+  315  jup
+  316  cd Documents/*335*/hw2/hw2-files
+  317  jup
+  318  cd Documents/*335*/hw2/hw2-files
+  319  jup
+  320  cd Documents/hw3/hw3-files
+  321  cd Documents/*335*/hw3/hw3-files
+  322  jup
+  323  cd Documents/*312*/HW3/TopologicalOrder
+  324  javac Main.java
+  325  javac Main.java
+  326  clear
+  327  javac Main.java
+  328  refresh
+  329  clear
+  330  clear
+  331  clear
+  332  clear
+  333  javac Main.java
+  334  clear clear clear clear
+  335  javac Main.java
+  336  clear
+  337  clear
+  338  clear
+  339  clear
+  340  javac Main.java
+  341  clear clear clear
+  342  javac Main.java
+  343  clear 
+  344  clear
+  345  clear
+  346  javac Main.java
+  347  javac Main.java
+  348  clear 
+  349  clear
+  350  clear
+  351  clear
+  352  clear
+  353  javac Main.java
+  354  clear
+  355  clear
+  356  clear
+  357  clear
+  358  javac Main.java
+  359  javac Main.java
+  360  javac Main.java
+  361  javac Main.java
+  362  java Main
+  363  cd Documents/*335*/hw3/hw3-files
+  364  jup
+  365  cd Desktop/hw3-files
+  366  jup
+  367  cd Documents/*335*/hw4/hw-files
+  368  jup
+  369  cd Documents/*335*/hw1/hw1-files
+  370  jup
+  371  cd Documents/*335*/hw4/hw4-files
+  372  jup
+  373  cd Documents/*335*/hw4/hw4-files
+  374  jup
+  375  cd Documents/*335*/hw4/hw4-files
+  376  cd Documents/*335*/hw4/hw4-yoo
+  377  jup
+  378  cd starter/code/search
+  379  cd Desktop/starter/code/search
+  380  java PostingsList.java
+  381  javac PostingsList.java
+  382  javac PostingsList.java
+  383  javac PostingsList.java
+  384  javac PostingsList.java
+  385  clear
+  386  clear
+  387  clear
+  388  clear
+  389  clear
+  390  clear
+  391  clear
+  392  clear
+  393  javac PostingsList.java
+  394  javac PostingsList.java
+  395  clear clear clear
+  396  clear 
+  397  clear
+  398  clear
+  399  clear
+  400  javac PostingsList.java
+  401  javac PostingsList.java
+  402  clear clear clear
+  403  clear
+  404  clear
+  405  clear
+  406  clear
+  407  clear
+  408  javac PostingsList.java
+  409  javac PostingsList.java
+  410  cd Desktop/assignment1
+  411  cd Desktop/assignment2
+  412  cd
+  413  ls
+  414  cd Desktop
+  415  cd assignment2
+  416  cd src
+  417  javac PostingsList.java
+  418  cd Desktop/starter/code/search
+  419  javac PostingsList.java
+  420  javac PostingsList.java
+  421  javac SinglyLinkedList.java
+  422  javac SinglyLinkedList.java
+  423  javac Node.java
+  424  javac PostingsList.java
+  425  javac PostingsList.java
+  426  javac PostingsList.java
+  427  javac PostingsList.java
+  428  ls
+  429  ls
+  430  ls
+  431  cd Documents/starter/code/search
+  432  javac PostingsList.java
+  433  javac PostingsList.java
+  434  javac PostingsList.java
+  435  javac PostingsList.java
+  436  cd Desktop/starter/search/code
+  437  cd Desktop/starter/code/search
+  438  javac PostingsList.java
+  439  javac PostingsList.java
+  440  javac PostingsList.java
+  441  javac PostingsList.java
+  442  cd Desktop
+  443  javac TESTING.java
+  444  javac TESTING.java
+  445  javac TESTING.java
+  446  javac TESTING.java
+  447  javac TESTING.java
+  448  javac TESTING.java
+  449  cd Desktop
+  450  javac TESTING.java
+  451  cd Desktop/starter/code/search
+  452  javac PostingsList.java
+  453  cd Downloads/movie-files
+  454  cd Downloads/movies-files
+  455  jup
+  456  cd Downloads/movies-files
+  457  jup
+  458  cd Documents/F16/*335*/hw4
+  459  cd hw4-yoo
+  460  jup
+  461  cd Desktop
+  462  cd Desktop
+  463  cd
+  464  cd Downloads
+  465  ls
+  466  ./2mile.py
+  467  python ./2mile.p
+  468  python ./2mile.py
+  469  python ./2mile.py
+  470  python ./2mile.py
+  471  python ./2mile.py
+  472  exec ls
+  473  ls
+  474  ls &
+  475  ls
+  476  ls
+  477  ls &
+  478  /Users/jaein cd Downloads
+  479  ls
+  480  cd Downloads
+  481  prompt
+  482  prompt> ./process-run.py -h
+  483  ./process-run.py -h
+  484  python process-run.py -h
+  485  python process-run.py -h -1:0 4:100 -c -S SWITCH.ON.IO
+  486  -c
+  487  -p
+  488  python process-run.py -h -1:0 4:100 -I IO_RUN_IMMEDIATE
+  489  cd Downloads
+  490  pytho
+  491  ./process-run.py -I 1:0 4:100 -c -S SWITCH_ON_END
+  492  cd Desktop
+  493  gcc -Wall -o whoosh whoosh.c
+  494   gcc -Wall -o whoosh whoosh.c
+  495  cd Desktop
+  496  gcc -Wall -o whoosh whoosh.c
+  497  which python3
+  498  which python
+  499  which python
+  500  which python3
+  501  cd Desktop/Academie/***IndStu
+  502  cd Ind_Study
+  503  pwd
+  504  cd Ind_Study
+  505  virtualenv venv -p=$(which python3)
+  506  virtualenv venv -p==$(which python3)
+  507  virtualenv venv -p $(which python3)
+  508  pwd
+  509  ls
+  510  source venv/bin/activate
+  511  source deactivate
+  512  deactivate
+  513  source venv/bin/activate
+  514  pip install opencv-python
+  515  pip freeze
+  516* requirements.tx
+  517  pip freeze > requirements.txt
+  518  cat requirements
+  519  cat requirements.txy
+  520  cat requirements.txt
+  521  pip install -r requirements.txt
+  522  man script
+  523  script output.txt
+  524  history > output.txt
